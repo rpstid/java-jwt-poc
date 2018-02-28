@@ -6,6 +6,7 @@ A JWT consists of three Base64 encoded parts separated by dots, which are:
 - header
 - payload
 - signature
+
 Therefore, a JWT typically looks like the following:
 xxxxx.yyyyy.zzzzz
 
